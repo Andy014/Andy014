@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center"> 
   <a href="https://www.cnblogs.com/suxiaochen/"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=学如逆水行舟%2C%20不进则退!;欢迎来到我的GitHub!&center=true&size=27"> 
