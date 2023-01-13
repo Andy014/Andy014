@@ -1,5 +1,12 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/sxc"><img src="https://api.daily.dev/devcards/62f08a6e27db40e184cfbf997c2b5b8e.png?r=j07" width="400" alt="sxc's Dev Card"/></a>
+
+<h1 align="center"> 
+  <a href="https://www.cnblogs.com/suxiaochen/"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=学如逆水行舟%2C%20不进则退!;欢迎来到我的GitHub!&center=true&size=27"> 
+  </a> 
+</h1>
+
+
 <!--
 **Andy014/Andy014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
