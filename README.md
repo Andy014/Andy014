@@ -4,6 +4,12 @@
   </a> 
 </h1>
 
+<div align="center"> 
+  <img src="https://api.daily.dev/devcards/62f08a6e27db40e184cfbf997c2b5b8e.png?r=j07" width="270" alt="sxc's Dev Card"/>
+  <img src="https://metrics.lecoq.io/Andy014?template=classic&config.timezone=Asia%2FShanghai"> 
+</div>
+
+
 
 <!--
 **Andy014/Andy014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
